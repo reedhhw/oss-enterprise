@@ -61,8 +61,8 @@ tiers:
   #     Thank you again for contributing :tada:!
 
   # This rule will be catching any contributor whatever their tiers (also custom contributions)
-  - tiers: '*'
-    labels: ['priority']
+  - tiers: "*"
+    labels: ["priority"]
     message: |-
       Hey <author> :wave:,
 
@@ -73,5 +73,4 @@ tiers:
 # To disable that feature, you can use the following syntax
 
 # tiers: []
-
 
